@@ -7,6 +7,7 @@ Obviously all rights belong to their respective owners. This iconset is fan art.
 ## Apple Products included
 
 * Airport Express
+* Airport Extreme
 * Apple TV
 * Apple Watch Edition
 * Apple Watch Sport
@@ -17,11 +18,13 @@ Obviously all rights belong to their respective owners. This iconset is fan art.
 * iPhone 6
 * iPod Nano
 * iPod Shuffle
+* iPod Touch
 * Mac Mini
 * Mac Pro
 * Macbook Air
 * Macbook Pro
 * Macbook
+* Time Capsule
 
 
 ### PSD Resources
