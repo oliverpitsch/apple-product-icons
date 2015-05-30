@@ -1,8 +1,8 @@
 # Apple Product Icons by Oliver Pitsch
 
-This is the repository for the Apple Product Icon Project by [Oliver Pitsch](http://www.addictedtocoffee.de/apple-product-icons/).
+![Sample of the Iconset.](http://www.addictedtocoffee.de/apple-product-icons/images/hero/hero-image-1.png "The complete set contains over 80 icons!")
 
-Obviously all rights belong to their respective owners. This iconset is fan art.
+This is the repository for the Apple Product Icon Project by [Oliver Pitsch](http://www.addictedtocoffee.de/apple-product-icons/). Obviously all rights belong to their respective owners. This iconset is fan art.
 
 ## Apple Products included
 
