@@ -1,6 +1,6 @@
-# Apple 2015 Product Icons by Oliver Pitsch
+# Apple Product Icons by Oliver Pitsch
 
-This is the repository for the Apple Product Icon Project by [Oliver Pitsch](www.addictedtocoffee.de).
+This is the repository for the Apple Product Icon Project by [Oliver Pitsch](http://www.addictedtocoffee.de/apple-product-icons/).
 
 Obviously all rights belong to their respective owners. This iconset is fan art.
 
@@ -9,39 +9,47 @@ Obviously all rights belong to their respective owners. This iconset is fan art.
 * Airport Express
 * Airport Extreme
 * Apple TV
-* Apple Watch Edition
-* Apple Watch Sport
-* Apple Watch
+* Apple Watch Edition <small>_(including all available colors/bands)_</small>
+* Apple Watch Sport <small>_(including all available colors/bands)_</small>
+* Apple Watch <small>_(including all available colors/bands)_</small>
 * Cinema Display
 * iMac
-* iPad
-* iPhone 6
-* iPod Nano
-* iPod Shuffle
-* iPod Touch
+* iPad <small>_(including all available colors/smart covers)_</small>
+* iPhone 6 <small>_(including all available colors)_</small>
+* iPod Nano <small>_(including all available colors)_</small>
+* iPod Shuffle <small>_(including all available colors)_</small>
+* iPod Touch <small>_(including all available colors)_</small>
 * Mac Mini
 * Mac Pro
 * Macbook Air
 * Macbook Pro
-* Macbook
+* Macbook <small>_(including all available colors)_</small>
 * Time Capsule
 
 
-### PSD Resources
+## PSD Resources
 
 This repository also includes all .psd (Photoshop) files for all icons. The files have been crafted carefully with (mostly) only vector shapes in use, so that they can be rescaled, if need be. Please keep in mind that the files are crafted to work right in 128px, so scaling the files will result in a loss of quality and detail.
   
 ## New products / Product enhancements
 
-I will add new products to the repository as soon as possible, after they have been publicly announced by Apple Inc. If you like to add or change an icon to the set please feel free to fork this repository and send me a pull request.
+I will add new products to the repository as soon as possible, after they have been publicly announced by Apple Inc. In Addition I will add "older" Apple Products over Time. Watch this Repository to be informed.
+
+## Contribution / Icon Requests
+
+If you like to add or change an icon to the set please feel free to fork this repository and send me a pull request.
+
+Of course you can also use the [Github Issues](https://github.com/oliverpitsch/apple-product-icons/issues) to request changes or new icons.
+
+**Thanks in advance for your contribution to this set!**
 
 ## FAQ
 
 __Are you working for Apple Inc.?__
-No I am not. I do not have any past or present relationship with Apple Inc. But I truly love their products. :)
+No I am not. I do not have any past or present relationship with Apple Inc. But I truly love their products. If you are from Apple and like what you see: [Call me](https://calendly.com/pitsch/10mincall)! ☺️
 
 __Can I use these icons in commercial projects?__
-Well, if you as me the answer would be yes. I release these icons publicly to be used in all kinds of projects. But please keep in mind that I do __not__ own any copyrights on any of the Apple products. Please make sure that you are allowed to use Apple products in your commercial projects, before using this set.
+Well, if you as me the answer would be yes. I release these icons publicly to be used in all kinds of projects. But please keep in mind that I do __not__ own any rights on any of the Apple products. Please make sure that you are allowed to use Apple products in your commercial projects, before using this set.
 
 __Why do you also release the PSD files?__
 For me this is a fun project. I am an Apple Fanboy for years and I wanted to recreate the current product lineup as 128px icons.
