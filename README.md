@@ -25,6 +25,9 @@ This is the repository for the Apple Product Icon Project by [Oliver Pitsch](htt
 * Macbook Pro
 * Macbook <small>_(including all available colors)_</small>
 * Time Capsule
+* Macintosh 128k
+* PowerMac G4 Cube
+* iMac G4
 
 
 ## PSD Resources
