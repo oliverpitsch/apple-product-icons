@@ -28,6 +28,7 @@ This is the repository for the Apple Product Icon Project by [Oliver Pitsch](htt
 * Macintosh 128k
 * PowerMac G4 Cube
 * iMac G4
+* Magic Mouse
 
 
 ## PSD Resources
