@@ -1,6 +1,6 @@
 # Apple Product Icons by Oliver Pitsch
 
-![Sample of the Iconset.](http://www.addictedtocoffee.de/apple-product-icons/images/hero/hero-image-1.png "The complete set contains over 80 icons!")
+![Sample of the Iconset.](http://www.addictedtocoffee.de/apple-product-icons/images/hero/hero-image-1.png "The complete set contains over 90 icons!")
 
 This is the repository for the Apple Product Icon Project by [Oliver Pitsch](http://www.addictedtocoffee.de/apple-product-icons/). Obviously all rights belong to their respective owners. This iconset is fan art.
 
@@ -29,6 +29,7 @@ This is the repository for the Apple Product Icon Project by [Oliver Pitsch](htt
 * PowerMac G4 Cube
 * iMac G4
 * Magic Mouse
+* Mighty Mouse
 
 
 ## PSD Resources
@@ -71,6 +72,14 @@ If you want to be a little bit more generous I am more than happy for donations 
 
 
 ## Versions
+
+__June 2015__ - Accessoirs
+
+Addition of the Mighty Mouse and Magic Mouse.
+
+__May 2015__ - Retro Pack 1
+
+Addition of Macintosh 128k, Powermac G4 Cube, iMac G4.
 
 __May 2015__ - Initial Release
 
