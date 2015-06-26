@@ -30,6 +30,7 @@ This is the repository for the Apple Product Icon Project by [Oliver Pitsch](htt
 * iMac G4
 * Magic Mouse
 * Mighty Mouse
+* Pro Mouse <small>_(including all available colors)_</small>
 
 
 ## PSD Resources
