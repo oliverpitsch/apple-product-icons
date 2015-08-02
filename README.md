@@ -72,7 +72,17 @@ If you want to be a little bit more generous I am more than happy for donations 
 [![Donate via Paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif "Donate via Paypal")](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=FK7BCVSECP7JC)
 
 
+## License
+
+Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (by-nc-sa/4.0)
+
+More information: [http://creativecommons.org/licenses/by-nc-sa/4.0/](http://creativecommons.org/licenses/by-nc-sa/4.0/)
+
+
 ## Versions
+__July 2015__ - New iPod Colors
+
+Addition of (yet unreleased as products) iPod Colors (Gold, Hot Pink & Deep Blue)
 
 __June 2015__ - Accessoirs
 
