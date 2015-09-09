@@ -9,13 +9,15 @@ This is the repository for the Apple Product Icon Project by [Oliver Pitsch](htt
 * Airport Express
 * Airport Extreme
 * Apple TV
+* The new Apple TV
 * Apple Watch Edition <small>_(including all available colors/bands)_</small>
 * Apple Watch Sport <small>_(including all available colors/bands)_</small>
 * Apple Watch <small>_(including all available colors/bands)_</small>
+* Apple Watch HERMES <small>_(including all available colors/bands)_</small>
 * Cinema Display
 * iMac
 * iPad <small>_(including all available colors/smart covers)_</small>
-* iPhone 6 <small>_(including all available colors)_</small>
+* iPhone 6(s) <small>_(including all available colors)_</small>
 * iPod Nano <small>_(including all available colors)_</small>
 * iPod Shuffle <small>_(including all available colors)_</small>
 * iPod Touch <small>_(including all available colors)_</small>
@@ -80,6 +82,11 @@ More information: [http://creativecommons.org/licenses/by-nc-sa/4.0/](http://cre
 
 
 ## Versions
+__September 2015__ - September Event 2015
+
+Addition of the new iPhone 6s Rose Gold model, the new Apple TV and a bunch of new Apple Watches, including the gorgeous HERMES Models.
+
+
 __July 2015__ - New iPod Colors
 
 Addition of (yet unreleased as products) iPod Colors (Gold, Hot Pink & Deep Blue)
