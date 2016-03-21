@@ -18,6 +18,7 @@ This is the repository for the Apple Product Icon Project by [Oliver Pitsch](htt
 * iMac
 * iPad <small>_(including all available colors/smart covers)_</small>
 * iPhone 6(s) <small>_(including all available colors)_</small>
+* iPhone SE <small>_(including all available colors)_</small>
 * iPod Nano <small>_(including all available colors)_</small>
 * iPod Shuffle <small>_(including all available colors)_</small>
 * iPod Touch <small>_(including all available colors)_</small>
@@ -82,6 +83,10 @@ More information: [http://creativecommons.org/licenses/by-nc-sa/4.0/](http://cre
 
 
 ## Versions
+__March 2015__ - March Event 2016
+
+The new year at Apple kicks off with the brand new iPhone SE and new stylish nylon bands for the apple watch. (The new iPad Pro 9,7" is the same icon as the iPad, so new icon here)
+
 __September 2015__ - September Event 2015
 
 Addition of the new iPhone 6s Rose Gold model, the new Apple TV and a bunch of new Apple Watches, including the gorgeous HERMES Models.
