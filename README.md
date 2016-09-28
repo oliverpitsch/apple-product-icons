@@ -6,6 +6,7 @@ This is the repository for the Apple Product Icon Project by [Oliver Pitsch](htt
 
 ## Apple Products included
 
+* AirPods
 * Airport Express
 * Airport Extreme
 * Apple TV
@@ -18,6 +19,7 @@ This is the repository for the Apple Product Icon Project by [Oliver Pitsch](htt
 * iMac
 * iPad <small>_(including all available colors/smart covers)_</small>
 * iPhone 6(s) <small>_(including all available colors)_</small>
+* iPhone 7 <small>_(including all available colors)_</small>
 * iPhone SE <small>_(including all available colors)_</small>
 * iPod Nano <small>_(including all available colors)_</small>
 * iPod Shuffle <small>_(including all available colors)_</small>
@@ -83,7 +85,11 @@ More information: [http://creativecommons.org/licenses/by-nc-sa/4.0/](http://cre
 
 
 ## Versions
-__March 2015__ - March Event 2016
+__September 2015__ - September Event 2016
+
+This is 7. While the shape of the iPhone hasn't changed that much (not at all at the icon size), the colors have. So here we go with updated icons for all iPhone 7 models. In addition the set now also contains the new Apple Watch Series 2 Edition with the ceramic case and the all new AirPods.
+
+__March 2016__ - March Event 2016
 
 The new year at Apple kicks off with the brand new iPhone SE and new stylish nylon bands for the apple watch. (The new iPad Pro 9,7" is the same icon as the iPad, so new icon here)
 
