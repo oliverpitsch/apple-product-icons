@@ -17,6 +17,7 @@ This is the repository for the Apple Product Icon Project by [Oliver Pitsch](htt
 * Apple Watch HERMES <small>_(including all available colors/bands)_</small>
 * Cinema Display
 * iMac
+* iMac Pro
 * iPad <small>_(including all available colors/smart covers)_</small>
 * iPhone 6(s) <small>_(including all available colors)_</small>
 * iPhone 7 <small>_(including all available colors)_</small>
@@ -85,6 +86,10 @@ More information: [http://creativecommons.org/licenses/by-nc-sa/4.0/](http://cre
 
 
 ## Versions
+__June 2017__ - WWDC 2017 Event
+
+iMac Pro added. More to come? Let’s see. Keynote still running.
+
 __September 2015__ - September Event 2016
 
 This is 7. While the shape of the iPhone hasn't changed that much (not at all at the icon size), the colors have. So here we go with updated icons for all iPhone 7 models. In addition the set now also contains the new Apple Watch Series 2 Edition with the ceramic case and the all new AirPods.
