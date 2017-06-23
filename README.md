@@ -16,6 +16,7 @@ This is the repository for the Apple Product Icon Project by [Oliver Pitsch](htt
 * Apple Watch <small>_(including all available colors/bands)_</small>
 * Apple Watch HERMES <small>_(including all available colors/bands)_</small>
 * Cinema Display
+* HomePod (including black and white variation)
 * iMac
 * iMac Pro
 * iPad <small>_(including all available colors/smart covers)_</small>
@@ -88,7 +89,7 @@ More information: [http://creativecommons.org/licenses/by-nc-sa/4.0/](http://cre
 ## Versions
 __June 2017__ - WWDC 2017 Event
 
-iMac Pro added. More to come? Let’s see. Keynote still running.
+iMac Pro and the gorgeous HomePod added. The HomePod comes in black and white variations, of course.
 
 __September 2015__ - September Event 2016
 
